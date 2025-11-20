@@ -1,22 +1,4 @@
 ---
-title: "Testing-pages"
+title: "Welcome to my blog"
 date: 2025-11-20
 ---
-
-Анализ проекта
-
-Внутри архива находится папка PixelFlowHub, и по файлам видно:
-
-✔ Это фронтенд-приложение на Vite + React + TypeScript
-
-Об этом говорят файлы:
-
-vite.config.ts
-
-package.json
-
-tsconfig.json
-
-postcss.config.js
-
-tailwind.config.ts
